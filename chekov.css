@@ -29,3 +29,25 @@
     font-style: italic;
     color: chocolate;
 }
+
+.Complete_table
+{
+    width:100%;
+    border-collapse: collapse;
+    margin-top: 11px;
+}
+
+.Complete_table th , .Complete_table td
+{
+border: 1px solid #dbff33;
+padding: 11px;
+text-align: center;
+}
+.Complete_table th
+{
+    background-color: #33ff63;
+}
+tr:nth-child(even)
+{
+    background-color: beige;
+}
