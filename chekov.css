@@ -16,11 +16,15 @@
     background-color: bisque;
     color: brown;
 }
+.name
+{
+    font-style: italic;
+    text-align: left;
+}
 
 .MARINA
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
     color: crimson;
 }
 .MARINA:hover
@@ -28,18 +32,16 @@
 text-shadow: #dbff33;
 filter: blur(4px);
 box-shadow: 3px 3px 10px #4f5858;
-border: 1px solid #ffcc00; /* border color */
+border: 1px solid #2d2c28; /* border color */
 }
 .ASTROFF
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
     color: chocolate;
 }
 .VOITSKI
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
     color: rgb(225, 187, 34);
 }
 
